@@ -4,3 +4,8 @@ git commit -m "message"
 git branch -M main
 git remote add origin https://github.com/VinitGurjar/octo.git
 git push -u origin main
+
+#after add new file
+git add file
+git commit -m "the changes you have made"
+git push
